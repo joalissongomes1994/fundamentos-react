@@ -1,0 +1,10 @@
+.table-produtos table {
+  width: 100%;
+}
+.table-produtos th {
+  background-color: #7159a1;
+  color: #fff;
+}
+.table-produtos .impar {
+  background-color: #ddd;
+}

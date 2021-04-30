@@ -1,0 +1,35 @@
+.mega {
+  display: flex;
+  flex-direction: column;
+}
+
+.mega .formulario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.mega input {
+  margin-top: 10px;
+  text-align: center;
+  width: 50%;
+  height: 20px;
+  line-height: 10px;
+  padding: 5px;
+  font-size: 1.4rem;
+}
+
+.mega button {
+  height: 40px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #8d6887;
+  font-size: 1.4rem;
+  transition: all 0.5s ease;
+}
+
+.mega button:hover {
+  background-color: #94718e;
+}
